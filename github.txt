@@ -1,3 +1,4 @@
+
 Flujos de trabajo: FTP vs. Sistemas de control de versiones
 
 Lo primero es ABANDONAR FTP (Sistema de transmisión de archivos)
@@ -8,7 +9,7 @@ Lo primero es ABANDONAR FTP (Sistema de transmisión de archivos)
 y usar un
 
 Sistema de control de versiones
-SVN: Subversion/Mercurial/TFS/CVS/GIT
+SVN: Subversion / Mercurial / TFS / CVS / GIT
  
 Github
 1. Es una aplicación web. Red social de programadores. 
